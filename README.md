@@ -1,6 +1,6 @@
 # SmartRSS-Windows
 
-This is the download repository for the Windows version of SmartRSS
+This is the download repository for the Linux version of SmartRSS
 
 * [💻 Download for Linux](https://github.com/VinsonGuo/SmartRSS-Linux/releases)
 * [💻 Download for Windows](https://github.com/VinsonGuo/SmartRSS-Windows/releases)
