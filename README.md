@@ -1,4 +1,4 @@
-# SmartRSS-Windows
+# SmartRSS-Linux
 
 This is the download repository for the Linux version of SmartRSS
 
@@ -13,7 +13,7 @@ In today's information-rich world, staying updated with your favorite blogs, new
 
 ## What Makes SmartRSS Special?
 
-SmartRSS isn't just another RSS reader. It's a comprehensive, cross-platform content aggregation platform designed as a **true platform-agnostic hub**. Access and manage your unified feeds from **any device—be it Android, iOS, macOS, or Windows**—all through a single, beautifully designed and consistent interface.
+SmartRSS isn't just another RSS reader. It's a comprehensive, cross-platform content aggregation platform designed as a **true platform-agnostic hub**. Access and manage your unified feeds from **any device—be it Android, iOS, macOS, Windows, or Linux**—all through a single, beautifully designed and consistent interface.
 
 ### ✨AI Actions
 
