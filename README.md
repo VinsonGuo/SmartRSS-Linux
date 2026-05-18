@@ -7,6 +7,13 @@ This is the download repository for the Linux version of SmartRSS
 * [🍎 Download for iOS](https://apps.apple.com/app/smartrss-ai-rss-reader/id6749771900)
 * [🤖 Download for Android](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_rss_reader)
 
+## Run
+
+1. unzip the 'bundle.zip'
+2. open the terminial, and cd to the bundle folder
+3. chmod +x smartrss
+4. ./smartrss
+
 --------------
 
 In today's information-rich world, staying updated with your favorite blogs, news sites, and content creators can be overwhelming. That's why I'm excited to introduce **SmartRSS** - an AI-powered RSS reader that revolutionizes how you discover, organize, and consume content across all your devices.
